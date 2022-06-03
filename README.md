@@ -1,2 +1,2 @@
 # eLitmus_Project
- A simple game made for elitmus project.
+ A fun game made for elitmus project in flutter.
